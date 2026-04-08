@@ -32,7 +32,7 @@ def __init__(self, name, age, marks, no_of_sub):
     self.age = age
     self.no_of_sub = no_of_sub
     self.__marks = marks
-```
+
 Initializes student details
 Uses data hiding (__marks) to protect marks
 ##
@@ -59,7 +59,7 @@ def result(self):
 ->Prints final result (Pass/Fail)
 
 
-
+```
 
 
 
