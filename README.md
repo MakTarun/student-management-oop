@@ -1,6 +1,8 @@
-# Python__oops_miniproject
-This project demonstrates Object-Oriented Programming (OOP) concepts in Python by implementing a Student class. It includes features to store student details, calculate total marks, compute percentage, and display results. The project is structured using separate modules for better code organization and reusability.
-# 📘 Student Management System (Python OOP)
+# 🎓 Student Management System (Python OOP)
+
+A simple Python project demonstrating Object-Oriented Programming (OOP) concepts by managing student details, calculating percentage, and displaying results.
+
+---
 
 This project demonstrates **Object-Oriented Programming (OOP)** concepts in Python by building a simple Student Management System.
 
