@@ -63,8 +63,10 @@ def result(self):
 
 
 ```
+output:
 
 
+<img width="181" height="71" alt="Screenshot 2026-04-09 010027" src="https://github.com/user-attachments/assets/e3e2cd01-bf7b-4f34-aa1b-9c6246347b5b" />
 
 
 
