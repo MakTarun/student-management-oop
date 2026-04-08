@@ -16,6 +16,7 @@ It allows you to:
 
 ## 📂 Project Structure
 student.py # Contains Student class
+
 student_client.py # Runs the program (client code)
 
 
