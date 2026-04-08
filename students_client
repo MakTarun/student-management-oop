@@ -1,0 +1,10 @@
+```
+from student import Student
+
+s2=Student('Abhay',22,[55,66,76,90,77],5)
+s2.result()
+```
+output:
+Abhay 22
+Percentage :  72.8
+Pass
